@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Hand_0001832.jpg</filename>
+	<path>C:\Users\gurne\Downloads\GURNEET_ANNOTATED-20210620T152443Z-001\GURNEET\train\Hand_0001832.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>16</ymin>
+			<xmax>1161</xmax>
+			<ymax>1096</ymax>
+		</bndbox>
+	</object>
+</annotation>

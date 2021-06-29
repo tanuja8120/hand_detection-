@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>Hand_0000207.jpg</filename>
+	<path>C:\Users\priyabrata\Downloads\TANUJA-20210622T090324Z-001\TANUJA\validation\Hand_0000207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>4</ymin>
+			<xmax>1256</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+</annotation>

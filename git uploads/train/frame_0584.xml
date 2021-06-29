@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>frame_0584.jpg</filename>
+	<path>D:\Study_Material\ROS\Hand Detection\Hands dataset\hand_dataset\TAMAL\train\frame_0584.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>82</ymin>
+			<xmax>323</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>77</ymin>
+			<xmax>513</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

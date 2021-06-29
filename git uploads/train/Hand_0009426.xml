@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Hand_0009426.jpg</filename>
+	<path>C:\Users\admin\Documents\al pdf\RAHUL\train\Hand_0009426.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>106</ymin>
+			<xmax>1103</xmax>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+</annotation>

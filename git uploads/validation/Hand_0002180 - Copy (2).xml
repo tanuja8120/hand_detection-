@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>Hand_0002180.jpg</filename>
+	<path>C:\Users\LENOVO\OneDrive\Desktop\NAKUL\validation\Hand_0002180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>125</ymin>
+			<xmax>1286</xmax>
+			<ymax>1129</ymax>
+		</bndbox>
+	</object>
+</annotation>

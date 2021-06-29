@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>frame_0293.jpg</filename>
+	<path>C:\Users\Kritika\Downloads\KRITIKA-20210619T151748Z-001\KRITIKA\train\frame_0293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>157</ymin>
+			<xmax>616</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

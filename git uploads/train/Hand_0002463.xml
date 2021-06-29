@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Hand_0002463.jpg</filename>
+	<path>C:\Users\LENOVO\OneDrive\Desktop\NAKUL\train\Hand_0002463.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>43</ymin>
+			<xmax>1220</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+</annotation>

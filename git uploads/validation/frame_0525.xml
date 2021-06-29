@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>frame_0525.jpg</filename>
+	<path>C:\Users\gurne\Downloads\TAMAL_ANNOTATED-20210620T152402Z-001\TAMAL_ANNOTATED\train\frame_0525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

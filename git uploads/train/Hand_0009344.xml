@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Hand_0009344.jpg</filename>
+	<path>C:\Users\Kritika\Downloads\KRITIKA-20210619T151748Z-001\KRITIKA\train\Hand_0009344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>127</ymin>
+			<xmax>1393</xmax>
+			<ymax>1177</ymax>
+		</bndbox>
+	</object>
+</annotation>

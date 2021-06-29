@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>Hand_0002820.jpg</filename>
+	<path>C:\Users\Kritika\Downloads\KRITIKA-20210619T151748Z-001\KRITIKA\validation\Hand_0002820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>13</ymin>
+			<xmax>1339</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+</annotation>
