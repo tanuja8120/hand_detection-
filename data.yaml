@@ -1,4 +1,5 @@
-train: 
+train: /content/hand_detection-/git uploads/train
+val: /content/hand_detection-/git uploads/validation
 val: 
 
 nc: 1
